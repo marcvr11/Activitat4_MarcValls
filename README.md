@@ -1,2 +1,3 @@
 # Activitat4_MarcValls
-CSS avanzado
+Els arxius s'han actualitzat en la mateixa branca main.
+la plantilla utilitzada és:Dimension
